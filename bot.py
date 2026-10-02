@@ -83,5 +83,5 @@ def main_loop():
             logging.error(f"Σφάλμα: {e}")
         time.sleep(30)
 
-if name == "main":
+if __name__ == "__main__":
     main_loop()
