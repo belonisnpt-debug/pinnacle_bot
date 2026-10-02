@@ -5,7 +5,7 @@ import logging
 # --- ΣΤΟΙΧΕΙΑ ΣΥΝΔΕΣΗΣ ---
 TELEGRAM_BOT_TOKEN = "8969723492:AAFqhtdsuSqPkFAGHGwhfUkv3phm-Mp7zlM"
 TELEGRAM_CHAT_ID = "980258434"
-PINNAPI_API_URL = "https://api.pinnapi.com/v1/odds/drops"
+PINNAPI_API_URL = "https://api.pinnacle.com/v1/odds/drops"
 PINNAPI_API_KEY = "2wVmkuaZJzKEoHeNpGUsGM3i2mdoqHKm"
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
